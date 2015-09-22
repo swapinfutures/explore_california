@@ -1,0 +1,9 @@
+testfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*
+log/*.log.[0-9]
+assets/photoshop/
+assets/vidoes/
+!assets/videos/tour_*.mp4
